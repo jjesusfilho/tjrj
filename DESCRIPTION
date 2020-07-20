@@ -30,3 +30,5 @@ Imports:
     progress,
     rvest,
     Hmisc
+URL: https://github.com/jjesusfilho/ufrj
+BugReports: https://github.com/jjesusfilho/ufrj/issues
